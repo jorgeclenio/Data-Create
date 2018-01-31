@@ -21,6 +21,10 @@ Após instalada a IDE Dev C++, fazer o donwload do projeto e abrir o arquivo "da
 
 Após feito isso, seguir o exemplo de uso situado no vídeo que contém no link: (https://youtu.be/zDPuJ9Oo9Qo/)
 
+### Autor
+
+* Jorge Clênio - [jorgeclenio](https://github.com/jorgeclenio/)
+
 ### Créditos
 
 * Desenvolvedor: Jorge Clênio
