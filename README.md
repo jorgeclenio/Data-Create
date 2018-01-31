@@ -23,10 +23,10 @@ Após feito isso, seguir o exemplo de uso situado no vídeo que contém no link:
 
 ### Créditos
 
-Desenvolvedor: Jorge Clênio
-Email: cleniocontato@gmail.com
-Data desenvolvimento: 29/01/2018
-Linguagem Utilizada: Linguagem C
-Hora de Conclusão: 22:05:46 pm
-Curso: Engenharia da Computação
-Versão: 1.0.3
+* Desenvolvedor: Jorge Clênio
+* Email: cleniocontato@gmail.com
+* Data desenvolvimento: 29/01/2018
+* Linguagem Utilizada: Linguagem C
+* Hora de Conclusão: 22:05:46 pm
+* Curso: Engenharia da Computação
+* Versão: 1.0.3
